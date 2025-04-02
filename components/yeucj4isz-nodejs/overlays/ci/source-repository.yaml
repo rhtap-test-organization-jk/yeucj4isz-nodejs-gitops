@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yeucj4isz-nodejs-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/yeucj4isz-nodejs
